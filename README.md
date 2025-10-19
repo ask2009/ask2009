@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**ask2009/ask2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently developing a **web browser** as a personal project.  
+My focus is on learning and understanding **application architecture** to improve both performance and scalability.
 
-Here are some ideas to get you started:
+### 🔭 Current Work
+- Developing a **custom web browser** from scratch.  
+- Exploring rendering, networking, and UI frameworks for browser development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Application and software **architecture design**.  
+- Efficient **resource management** and **process handling** in browsers.
+
+### 👯 Looking to Collaborate With
+- **Firefox browser developers** or contributors who are interested in discussing architecture or performance optimization.
+
+### 📫 How to Reach Me
+- **Discord**: (available upon request)  
+- **X (Twitter)**: [@ask200912](https://x.com/ask200912)
+
+### 💬 A Few Words
+I’d be happy to connect with others who share similar interests.  
+Let’s work and grow together — **nice to meet you!**
