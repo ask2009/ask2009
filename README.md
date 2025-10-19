@@ -1,3 +1,4 @@
+<img src="./images/header.png" width="100%">
 ## Hi there 👋
 
 I’m currently developing a **web browser** as a personal project.  
