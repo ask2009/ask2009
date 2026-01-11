@@ -13,9 +13,6 @@ My focus is on learning and understanding **application architecture** to improv
 - Application and software **architecture design**.  
 - Efficient **resource management** and **process handling** in browsers.
 
-### 👯 Looking to Collaborate With
-- **Firefox browser developers** or contributors who are interested in discussing architecture or performance optimization.
-
 ### 📫 How to Reach Me
 - **Discord**: (available upon request)  
 - **X (Twitter)**: [@ask200912](https://x.com/ask200912)
